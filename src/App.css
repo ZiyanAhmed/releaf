@@ -1,0 +1,22 @@
+.app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Mobile-first responsive design */
+@media (max-width: 768px) {
+  .app {
+    padding-bottom: 72px; /* Space for bottom navigation */
+  }
+}
+
+@media (min-width: 769px) {
+  .app {
+    padding-top: 72px; /* Space for top navigation */
+  }
+}
+
