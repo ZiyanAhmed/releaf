@@ -2,6 +2,10 @@
 
 A comprehensive web application for discovering, managing, and analyzing urban green spaces. Built with React, Leaflet maps, and Chart.js for data visualization.
 
+## 🌐 Live Demo
+
+**Live Application:** [https://ziyan-liart.vercel.app](https://ziyan-liart.vercel.app)
+
 ## Features
 
 ### 🗺️ Interactive Map Screen
